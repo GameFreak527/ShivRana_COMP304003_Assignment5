@@ -1,0 +1,55 @@
+<resources>
+    <string-array name="Brand">
+        <item>Ford</item>
+        <item>Toyota</item>
+        <item>Honda</item>
+        <item>Chevrolet</item>
+        <item>Nissan</item>
+    </string-array>
+
+    <string-array name="Ford">
+        <item>East Court Ford Lincoln</item>
+        <item>Yonge Steeles Ford Lincoln</item>
+        <item>Donway Ford</item>
+        <item>Downtown Ford Toronto</item>
+    </string-array>
+
+    <string-array name="Toyota">
+        <item>Downtown Toyota Toronto</item>
+        <item>Scarborough Toyota</item>
+        <item>Toyota On the Park</item>
+        <item>Toyota on Front</item>
+    </string-array>
+
+    <string-array name="Honda">
+        <item>Toronto Honda</item>
+        <item>Honda Downtown</item>
+        <item>Parkway Honda</item>
+        <item>Action Honda</item>
+    </string-array>
+
+    <string-array name="Chevrolet">
+        <item>City Buick Chevrolet Cadillac GMC</item>
+        <item>Old Mill Cadillac Chevrolet Buick GMC Ltd.</item>
+        <item>Hogan Chevrolet Buick GMC Limited</item>
+        <item>Humberview Chevrolet Buick GMC</item>
+    </string-array>
+
+    <string-array name="Nissan">
+        <item>Avenue Nissan</item>
+        <item>Nissan Downtown Toronto</item>
+        <item>Agincourt Nissan</item>
+        <item>High Park Nissan</item>
+    </string-array>
+
+
+    <string name="app_name">ShivRana_COMP304-003_Assignment5</string>
+    <string name="Enter">Enter</string>
+    <string name="SelectCarBrand">Select the Car Brand</string>
+    <string name="Submit">Submit</string>
+    <string name="showRoomSelection">Select Showroom</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="mapView">Map View</string>
+    <string name="sateliteView">Satelite</string>
+    <string name="selectView">Choose View</string>
+</resources>
